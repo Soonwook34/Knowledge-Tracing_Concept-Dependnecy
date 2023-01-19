@@ -19,14 +19,14 @@ Soonwook Park(Sungkyunkwan University), Donghoon Lee(KOREAPOLYSCHOOL), Hogun Par
 
 ## 연구 주체
 
-- ### 성균관대학교 인공지능학과 [LearnData Lab](https://learndatalab.github.io/, "LearnData Lab link")
-- ### [코리아폴리스쿨](https://www.koreapolyschool.com/main.do) 인공지능연구소
+- ### 성균관대학교 인공지능학과 [LearnData Lab](https://learndatalab.github.io/ "LearnData Lab link")
+- ### [코리아폴리스쿨](https://www.koreapolyschool.com/main.do "KOREAPOLYSCHOOL") 인공지능연구소
 
 -------------
 
 ## 성과
 
-- ### KSC2022 우수논문상 입상 ([링크](https://www.kiise.or.kr/conference/KSC/2022/), 논문번호 406)
+- ### KSC2022 우수논문상 입상 ([링크](https://www.kiise.or.kr/conference/KSC/2022/ "KSC2022"), 논문번호 406)
 
 -------------
 
